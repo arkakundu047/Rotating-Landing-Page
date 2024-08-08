@@ -11,10 +11,10 @@ const HomePage = () => {
           <div className="col-md-6">
             <div className="brand-container">
               <h1 data-aos="slide-right">
-                <b>TECHINFO YT</b>
+                <b>WELCOME TO</b>
               </h1>
               <p data-aos="slide-left">
-                Fullstack <b>Developer</b> and Youtuber
+                Rotating <b>Landing Page</b> 
               </p>
             </div>
           </div>
